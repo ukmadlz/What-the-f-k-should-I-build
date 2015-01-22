@@ -13,5 +13,13 @@
         }
     },
     "who-i-work-for.md",
-    "ibm.md"
+    [
+        "ibm.md",
+        "inventor.md"
+    ],
+    "hackference.md",
+    [
+      "hacking.md",
+      "hugh.md"
+    ]
 ]
