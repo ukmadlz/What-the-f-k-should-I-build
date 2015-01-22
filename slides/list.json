@@ -19,7 +19,14 @@
     ],
     "hackference.md",
     [
-      "hacking.md",
-      "hugh.md"
-    ]
+        "hacking.md",
+        "hugh.md",
+        "my-guys.md"
+    ],
+    {
+      "filename":"philosophy.md",
+      "attr": {
+        "data-background":"#161744"
+      }
+    }
 ]
