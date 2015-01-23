@@ -20,7 +20,6 @@
     "hackference.md",
     [
         "hacking.md",
-        "hugh.md",
         "my-guys.md"
     ],
     {
@@ -32,8 +31,7 @@
     "mike-never-completes-a-hack-elsmore.md",
     [
         "syd-lawrence.md",
-        "andrew-nesbitt.md",
-        "hugh-again.md"
+        "andrew-nesbitt.md"
     ],
     "many-coders.md",
     "now-for-something-constructive.md",
